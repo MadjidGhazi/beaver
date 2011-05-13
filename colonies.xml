@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Colony xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ColonyName>Boston</ColonyName>
+  <Beavers>
+    <BeaverCode>fred</BeaverCode>
+  </Beavers>
+  <Beavers>
+    <BeaverCode>wilma</BeaverCode>
+  </Beavers>
+  <Beavers>
+    <BeaverCode>bambam</BeaverCode>
+  </Beavers>
+</Colony>
